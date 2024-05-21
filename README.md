@@ -7,7 +7,7 @@ src="https://blogger.googleusercontent.com/img/a/AVvXsEjfPvMft8mgLwmw4NzLJsjdLN_
 <h3 align="center">A passionate in CyberSecurity from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamesh250&label=Profile%20views&color=0e75b6&style=flat" alt="kamesh250" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamesh250" alt="kamesh250" /></a> </p>
- <img align="right" alt="Coding" width="600" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
+ <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
 
 
 - 🌱 I’m currently learning **devops.**
