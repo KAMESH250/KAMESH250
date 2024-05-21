@@ -1,3 +1,8 @@
+<img align="center" alt="Coding" style="width:auto;"
+src="https://blogger.googleusercontent.com/img/a/AVvXsEjfPvMft8mgLwmw4NzLJsjdLN_YEiUYqutOtfVjDqNXwytsWfu_EdO74m3UxngwH1aNEDB9RJG8ZIlLSuzTxJtPqDL-QxSMHAvLUR9a6avfZZWsBGMygkXh-cE-NqzxiudKlTkWdNp78_W780DU9eDxC0ahV0KIDv5bDY8CW3oo7nal8W8SwC8HKn5CfbM=w1680">
+
+
+
 <h1 align="center">Hi 👋, I'm KAMESH WARAN.k</h1>
 <h3 align="center">A passionate in CyberSecurity from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamesh250&label=Profile%20views&color=0e75b6&style=flat" alt="kamesh250" /> </p>
@@ -48,9 +53,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamesh250&show_icons=true&locale=en&layout=compact" alt="kamesh250" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamesh250&show_icons=true&locale=en" alt="kamesh250" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamesh250&show_icons=true&locale=en" alt="kamesh250" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamesh250&" alt="kamesh250" /></p>
 
